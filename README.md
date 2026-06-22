@@ -1,4 +1,4 @@
-Machine Learning Lab : List of Programs:
+## Machine Learning Lab - List of Programs:
 
 1. Visualize the n-dimensional data using Scatter plots. Write a program to implement Hill Climbing Algorithm. 
 
