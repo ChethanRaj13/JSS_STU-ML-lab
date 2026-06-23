@@ -1,5 +1,3 @@
-# Visualize the n-dimensional data using contour plots. Write a program to implement the A* algorithm  
-
 from collections import deque
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris

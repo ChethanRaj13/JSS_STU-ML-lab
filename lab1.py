@@ -1,5 +1,3 @@
-# Visualize the n-dimensional data using Scatter plots. Write a program to implement Hill Climbing Algorithm. 
-
 import random
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris

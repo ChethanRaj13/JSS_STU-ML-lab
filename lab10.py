@@ -62,3 +62,4 @@ def lda():
         print(X_lda[:5])
 
 lda()
+pca()

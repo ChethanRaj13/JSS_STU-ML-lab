@@ -1,5 +1,3 @@
-# Visualize the n-dimensional data using 3D surface plots. Write a program to implement the Best First Search (BFS) algorithm. 
-
 from collections import deque
 from sklearn.datasets import load_iris
 import matplotlib.pyplot as plt

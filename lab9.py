@@ -15,7 +15,7 @@ while len(cluster) > 1:
     for i in range(len(cluster)):
         for j in range(i+1, len(cluster)):
             # simple linkage
-            dist = max(
+            dist = min(
                 np.linalg.norm(X[p1]-X[p2])
                 for p1 in cluster[i]
                 for p2 in cluster[j]
